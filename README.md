@@ -1,3 +1,5 @@
+![github-banner](https://user-images.githubusercontent.com/96031819/218027133-7bfd8533-bb05-482b-87b1-7482d95b8fe7.png)
+
 # curvy
 `ed25519` -> `x25519` 
 
